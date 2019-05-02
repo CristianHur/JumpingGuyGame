@@ -1,0 +1,13 @@
+{
+"companyName": "Dequei Games",
+"productName": "Jumping Guy",
+"dataUrl": "JumpingGuy WebGL.data.unityweb",
+"asmCodeUrl": "JumpingGuy WebGL.asm.code.unityweb",
+"asmMemoryUrl": "JumpingGuy WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "JumpingGuy WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
